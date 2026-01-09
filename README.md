@@ -4,6 +4,8 @@
 
 **Data Scientist | Machine Learning Enthusiast | Computational Chemistry & Drug Discovery**
 
+</div>
+
 # 💫 About Me
 
 🔬 **I'm currently working on** Data Science and Machine Learning projects, including predictive modeling, molecular property prediction, and end-to-end ML pipelines using Python.
@@ -29,5 +31,3 @@
 ## 🎓 Certifications
 
 [**Python for Data Science and Machine Learning Bootcamp — Udemy**](https://www.udemy.com/certificate/UC-9def3123-b624-4cda-88a5-a950b344b1f2/)
-
-</div>
