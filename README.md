@@ -1,3 +1,14 @@
+<div align="center">
+
+## 👋 Hi, I'm **Yash Dhanawate**  
+**Data Scientist | Machine Learning Enthusiast | Computational Chemistry & Drug Discovery**
+
+---
+
+</div>
+
+<div align="center">
+
 # 💫 About Me:
 🔬 I’m currently working on<br>Data Science and Machine Learning projects, including predictive modeling, molecular property prediction, and end-to-end ML pipelines using Python.<br><br>👥 I’m looking to collaborate on<br>Machine Learning, Data Science, AI-driven drug discovery, QSAR modeling, and real-world data science projects.<br><br>🤝 I’m looking for help with<br>Advanced Machine Learning, Deep Learning (PyTorch), Model Deployment, and scalable ML pipelines.<br><br>🌱 I’m currently learning<br>PyTorch, Deep Learning, Feature Engineering, Model Optimization, and applying ML to chemical and biological data.<br><br>💬 Ask me about<br>Machine Learning, Data Analysis, Python, QSAR, RDKit, molecular data processing, and predictive modeling.<br><br>⚡ Fun fact<br>I use machine learning to turn molecular data into actionable scientific insights.
 
