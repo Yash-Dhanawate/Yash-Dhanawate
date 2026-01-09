@@ -26,7 +26,5 @@
 
 ## 🎓 Certifications
 
-- **Python for Data Science and Machine Learning Bootcamp** — Udemy  
+- [**Python for Data Science and Machine Learning Bootcamp** — Udemy](https://www.udemy.com/certificate/UC-9def3123-b624-4cda-88a5-a950b344b1f2/)
 
-📜 View Certificates:  
-[https://www.udemy.com/certificate/UC-9def3123-b624-4cda-88a5-a950b344b1f2/](https://www.udemy.com/certificate/UC-9def3123-b624-4cda-88a5-a950b344b1f2/)
