@@ -25,13 +25,13 @@ Machine Learning, Data Analysis, Python, QSAR, RDKit, molecular data processing,
 ⚡ **Fun fact**  
 I use machine learning to turn molecular data into actionable scientific insights.
 
----
+
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-dhanwate)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashdhanwate1999@gmail.com)
 
----
+
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -47,12 +47,6 @@ I use machine learning to turn molecular data into actionable scientific insight
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Yash-Dhanawate&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 ## 🎓 Certifications
 [**Python for Data Science and Machine Learning Bootcamp — Udemy**](https://www.udemy.com/certificate/UC-9def3123-b624-4cda-88a5-a950b344b1f2/)
