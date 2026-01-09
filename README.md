@@ -22,4 +22,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Yash-Dhanawate&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
 
+## 🎓 Certifications
+
+- **Python for Data Science and Machine Learning Bootcamp** — Udemy  
+
+📜 View Certificates:  
+[https://www.udemy.com/certificate/UC-9def3123-b624-4cda-88a5-a950b344b1f2/](https://www.udemy.com/certificate/UC-9def3123-b624-4cda-88a5-a950b344b1f2/)
