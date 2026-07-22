@@ -1,32 +1,112 @@
 <div align="center">
 
-## 👋 Hi, I'm **Yash Dhanawate**
+# 👋 Hi, I'm Yash Dhanawate
 
-**Data Scientist | Machine Learning Enthusiast | Computational Chemistry & Drug Discovery**
+### AI for Drug Discovery • Explainable AI • Cheminformatics • Machine Learning
+
+Building trustworthy machine learning models for molecular property prediction, virtual screening, and computational drug discovery.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-dhanwate)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashdhanawate1999@gmail.com)
 
 </div>
 
-# 💫 About Me
+---
 
-🔬 **I'm currently working on** Data Science and Machine Learning projects, including predictive modeling, molecular property prediction, and end-to-end ML pipelines using Python.
+# 🔬 About Me
 
-👥 **I'm looking to collaborate on** Machine Learning, Data Science, AI-driven drug discovery, QSAR modeling, and real-world data science projects.
+I'm a Computational Chemist and Machine Learning enthusiast passionate about developing **AI-driven solutions for drug discovery**.
 
-🤝 **I'm looking for help with** Advanced Machine Learning, Deep Learning (PyTorch), Model Deployment, and scalable ML pipelines.
+My work focuses on combining **Graph Neural Networks, Explainable AI (XAI), QSAR, Active Learning, and Molecular Modeling** to build reliable and interpretable models for molecular property prediction and virtual screening.
 
-🌱 **I'm currently learning** PyTorch, Deep Learning, Feature Engineering, Model Optimization, and applying ML to chemical and biological data.
+I enjoy working on projects that bridge **Machine Learning** with **Medicinal Chemistry**, transforming raw chemical data into scientifically meaningful insights.
 
-💬 **Ask me about** Machine Learning, Data Analysis, Python, QSAR, RDKit, molecular data processing, and predictive modeling.
+---
 
-⚡ **Fun fact** I use machine learning to turn molecular data into actionable scientific insights.
+# 🚀 Current Focus
 
-## 🌐 Socials
+- 🧠 Explainable AI (Integrated Gradients, Model Interpretation)
+- 🧬 Graph Neural Networks for Molecular Property Prediction
+- 💊 AI-assisted Drug Discovery & Virtual Screening
+- 📈 QSAR Modeling & Molecular Machine Learning
+- 🎯 Active Learning & Uncertainty Estimation
+- ⚗️ Cheminformatics using RDKit
+- 🔬 Molecular Dynamics & Computational Chemistry
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-dhanwate) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashdhanwate1999@gmail.com)
+---
 
-## 💻 Tech Stack
+# 📌 Featured Projects
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🧠 Explainable AI for Molecular Property Prediction
+
+Developed a hybrid Graph Neural Network framework that combines molecular graph representations with Explainable AI techniques to interpret atom-level contributions and investigate whether the model learns meaningful chemistry rather than dataset-specific bias.
+
+**Tech:** PyTorch Geometric • RDKit • Captum • Integrated Gradients
+
+---
+
+### 🎯 Active Learning for Virtual Screening
+
+Designed a temporal active learning workflow using uncertainty estimation and conformal prediction to prioritize compounds for experimental screening under realistic chronological evaluation.
+
+**Tech:** Scikit-learn • MAPIE • RDKit • Python
+
+---
+
+### 💊 QSAR Pipeline for Drug Discovery
+
+Built end-to-end QSAR workflows including molecular standardization, feature engineering, model development, hyperparameter optimization, and model interpretation.
+
+---
+
+# 🛠 Tech Stack
+
+### Machine Learning
+
+Python • PyTorch • Scikit-learn • LightGBM • XGBoost • Optuna
+
+### AI for Drug Discovery
+
+RDKit • PyTorch Geometric • Captum • QSAR • Molecular Fingerprints • Molecular Descriptors
+
+### Molecular Modeling
+
+GROMACS • AutoDock Vina • Molecular Dynamics • Docking
+
+### Data Science
+
+Pandas • NumPy • Matplotlib • MLflow • MySQL
+
+### Tools
+
+Git • Linux • Streamlit
+
+---
+
+# 🌱 Currently Learning
+
+- Large Language Models for Scientific Applications
+- Generative AI for Molecule Generation
+- Advanced Graph Neural Networks
+- MLOps for Machine Learning Systems
+- Explainable AI for Drug Discovery
+
+---
+
+# 📫 Let's Connect
+
+I'm always interested in collaborating on projects involving
+
+- Explainable AI
+- Drug Discovery
+- Molecular Machine Learning
+- Graph Neural Networks
+- QSAR
+- Computational Chemistry
+
+Feel free to connect with me on LinkedIn or explore my repositories below.
+
+---
 
 ## 🎓 Certifications
 
